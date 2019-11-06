@@ -11,5 +11,3 @@ class Dog
     puts "woof!"
   end 
 end
-
-fido
